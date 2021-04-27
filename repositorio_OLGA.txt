@@ -1,0 +1,11 @@
+1.-abrir cuenta de github 
+2.-crear un nuevo repositorio.
+
+3.-abrir terminal y creacion de de carpeta basic_repo
+3.-creacion de archivo html y css
+4.- creacion de repositorio git.
+5.-se agregan los archivos,se crea un commit y se subi al repositorio github.
+
+6.-se modifican algunos datos .
+7.-se actualiza el repositorio.
+8.-se verifica que se haya actualizado el repositorio .
