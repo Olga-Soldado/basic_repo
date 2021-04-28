@@ -12,3 +12,6 @@
 
 
 9.- actualizacion de rama1
+10.-se clono un repositorii
+11.-se hara un merge para unir ambos archivos.
+
