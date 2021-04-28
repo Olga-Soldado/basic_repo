@@ -9,3 +9,6 @@
 6.-se modifican algunos datos .
 7.-se actualiza el repositorio.
 8.-se verifica que se haya actualizado el repositorio .
+
+
+9.- actualizacion de rama1
